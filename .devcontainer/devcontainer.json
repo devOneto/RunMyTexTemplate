@@ -1,0 +1,8 @@
+{
+   "build": { "dockerfile": "Dockerfile" },
+   "customizations": {
+      "vscode": {
+        "extensions": [ "mathematic.vscode-latex", "ms-azuretools.vscode-docker", "james-yu.latex-workshop" ]
+      }
+    }
+}
