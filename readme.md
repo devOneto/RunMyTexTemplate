@@ -1,6 +1,10 @@
+<div style="text-align:center"><img src=".doc/icon.png" alt="Icone"/></div>
+
 # Run My Tex
 
 O Run My Tex é um script bash projetado para facilitar e melhorar a produtividade na compilação de arquivos LaTeX. Este script pode ser executado em um DevContainer no Visual Studio Code, utilizando Docker. Recomenda-sefortemente esta abordagem, pois ela elimina a necessidade de instalar várias dependências em sua máquina local.
+
+![Demonstracao](/.doc/demo.png "Demonstração")
 
 ## Vantagens
 
